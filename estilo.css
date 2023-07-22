@@ -1,0 +1,19 @@
+h4{
+    color: rgb(0, 255, 34);
+    font-size: 60px;
+    font-family: 'Arial Black';
+}
+
+body{
+    background-color: rgb(10, 188, 233);
+}
+
+p{
+    color: red;
+    font-size: 50%;
+}
+
+div
+{
+ background:rgb(36, 150, 226);
+}
